@@ -22,3 +22,11 @@ https://josefernandoguarin.github.io/GestEstrat/
 https://josefernandoguarin.github.io/BalEner-App/
 
 https://josefernandoguarin.github.io/Analisis_Sistemico_Produccion_Lechera/
+
+https://josefernandoguarin.github.io/CalculoOfertaDiaria/
+
+https://josefernandoguarin.github.io/Transicion-Produccion/
+
+https://josefernandoguarin.github.io/AlimentacionForrajera/
+
+https://josefernandoguarin.github.io/CostosLecheria/
