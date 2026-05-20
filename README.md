@@ -30,3 +30,5 @@ https://josefernandoguarin.github.io/Transicion-Produccion/
 https://josefernandoguarin.github.io/AlimentacionForrajera/
 
 https://josefernandoguarin.github.io/CostosLecheria/
+
+https://josefernandoguarin.github.io/CurvasLactanciaWood/
